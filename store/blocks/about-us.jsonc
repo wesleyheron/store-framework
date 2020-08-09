@@ -70,7 +70,7 @@
         }
        },
        "tab-content.item#home2":{
-        "children":["iframe#home2"],
+        "children":["iframe"],
         "props": { 
             "tabId": "electronics"
         }
@@ -82,7 +82,7 @@
           "font": "t-heading-3"
         }
       },
-      "iframe#home2": {
+      "iframe": {
         "props": {
             "src": "https://www.instagram.com/p/B973Qp8BacC/embed",
             "width": 800,
